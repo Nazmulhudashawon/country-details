@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    grid-gap:5px ;
+   
+}
+.body{
+    background-color: black;
+}
+.cd{
+    color: rgb(231, 196, 81);
+    padding: 10px;
+}
